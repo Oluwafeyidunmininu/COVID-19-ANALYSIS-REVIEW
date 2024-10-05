@@ -1,4 +1,4 @@
-# SQL-Projects
+# SQL-Projects 
 ## Overview
 This repository contains projects worked on using SQL to drive insights for further data analysis.
 
@@ -15,9 +15,9 @@ Analysis Objectives:
 ### Data Sourcing:
     https://ourworldindata.org/covid-deaths  
 ### Derivable Insights:
-1. Countries with highest infection rates per population
-2. Countries with highest death counts per population
+1. Countries with highest infection rates per population 
+2. Countries with highest death counts per population 
 3. Continent with highest death count per population
-4. Total population vs vaccination rates
+4. Total population vs vaccination rates 
 5. Percentage of population vaccinated
 

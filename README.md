@@ -8,7 +8,7 @@ This project aims to provide a analysis of COVID-19 data, focusing on key indica
 ###  Aim:
 Analysis Objectives:
 - To identify countries with disproportionately high infection rates relative to population size
-- To examine countries with highest death counts adjusted for population
+- To examine countries with highest death counts by population
 - To determine the continent with the highest death count per popualtion
 - To Investigate the relationship between total population and vaccination rates
 - To Calculate the percentage of population vaccinated

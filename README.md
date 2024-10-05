@@ -20,6 +20,8 @@ This project COVID-19 data analysis focus on key indicators such as infection ra
 4. Total population vs vaccination rates 
 5. Percentage of population vaccinated
 
+ Query Steps @ https://github.com/Oluwafeyidunmininu/SQL-Projects/blob/main/COVID%202019%20SQL%20PROJECT%20BY%20FEYI.sql
+
 
 ## 2. CUSTOMER AND ORDERS PROJECT
 ### Introduction 
@@ -35,3 +37,5 @@ To analyze customer data to optimize sales strategies and enhance revenue growth
 4. Customers with No Orders
 5. Total Orders per City
 6. Most Profitable Customer
+   
+Query Steps @ 

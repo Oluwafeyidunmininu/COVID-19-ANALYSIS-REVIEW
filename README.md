@@ -38,4 +38,4 @@ To analyze customer data to optimize sales strategies and enhance revenue growth
 5. Total Orders per City
 6. Most Profitable Customer
    
-Query Steps @ 
+Query Steps @ https://github.com/Oluwafeyidunmininu/SQL-Projects/blob/main/CUSTOMER%20AND%20ORDERS%20PROJECT%20FEYI.sql

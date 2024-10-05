@@ -11,7 +11,7 @@ This project COVID-19 data analysis focus on key indicators such as infection ra
 - To determine the continent with the highest death count per popualtion
 - To Investigate the relationship between total population and vaccination rates
 - To Calculate the percentage of population vaccinated
-### Data Sourcing:
+### Data Source:
     https://ourworldindata.org/covid-deaths  
 ### Derivable Insights:
 1. Countries with highest infection rates per population 
@@ -26,7 +26,7 @@ This project COVID-19 data analysis focus on key indicators such as infection ra
 This project show case the sales insight derived from KCC Customer and thier orders. 
 ###  Aim:
 To analyze customer data to optimize sales strategies and enhance revenue growth
-### Data Sourcing:
+### Data Source:
     Kaggle: KCC Customer and Orders DB-3  
 ### Derivable Insights:
 1. Total Revenue Per Customer (TRPC)

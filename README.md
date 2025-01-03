@@ -1,4 +1,4 @@
-#  COVID 2019 PROJECT 
+#  COVID 2019 REVIEW 
 ## Introduction:
 This project COVID-19 data analysis focus on key indicators such as infection rates, death counts, vaccination rates, and population vaccinated especailly for further analysis. 
 ##  Aim:

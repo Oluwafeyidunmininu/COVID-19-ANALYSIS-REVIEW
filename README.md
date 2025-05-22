@@ -1,4 +1,4 @@
-# 🌍 2019 GLOBAL IMPACT ANALYSIS – COVID-19 REVIEW
+# 🌍 COVID-19 Global Impact Analysis
 
 ## 🧾 Introduction
 

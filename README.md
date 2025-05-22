@@ -39,7 +39,7 @@ SQL queries used for data transformation and analysis can be found here:
 
 ---
 
-![COVID-19 Analysis Screenshot](<>)
+![COVID-19 Analysis Screenshot](<https://github.com/Oluwafeyidunmininu/COVID-19-Global-Impact-Analysis/blob/main/Query%20Screenshot%20.png>)
 
 ---
 

@@ -1,7 +1,7 @@
 # 🌍 COVID-19 Global Impact Analysis
 
 ## 🧾 Introduction
-    This project presents a comprehensive 2019 global impact analysis of the COVID-19 pandemic. It focuses on key indicators such as infection rates, death counts, vaccination rates, and the percentage of population vaccinated. 
+ - This project presents a comprehensive 2019 global impact analysis of the COVID-19 pandemic. It focuses on key indicators such as infection rates, death counts, vaccination rates, and the percentage of population vaccinated. 
 ---
 
 ## 🎯 Aim
